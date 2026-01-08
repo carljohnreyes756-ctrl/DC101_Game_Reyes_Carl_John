@@ -29,7 +29,6 @@ function setupBoard(config) {
     const board = document.getElementById('game-board');
     board.className = `game-board ${config.gridClass}`;
     board.innerHTML = '';
-    
 
     let selectedEmojis = emojiPool.slice(0, config.pairs);
     let gameSet = [...selectedEmojis, ...selectedEmojis].sort(() => Math.random() - 0.5);
@@ -104,6 +103,10 @@ function endGame(isWin) {
     }
 }
 
- Quit Game Button
-
+ //Quit Game Button
 document.getElementById('quit-btn').onclick = () => location.reload();
+
+
+
+
+
