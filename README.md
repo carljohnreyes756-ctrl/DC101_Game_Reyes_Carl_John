@@ -65,11 +65,13 @@ The grid of cards with the timer and move counter running.
 
  Victory Screen
 The modal that appears when the player successfully matches all cards.  
-![Victory](screenshots/victory.png)
+<img width="300" height="366" alt="image" src="https://github.com/user-attachments/assets/fcf351c6-3588-440a-aadd-fae9406f2dd3" />
+
 
 🔗 References
 *   **Fonts:** [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 *   **Icons:** Native System Emojis
 *   **CSS Techniques:** Glassmorphism and CSS Animation concepts applied from various web design resources.
+
 
 
