@@ -46,7 +46,7 @@ You can play the game instantly through this link:
 Option 2: Run Locally
 1.  Download or clone the repository:
     ```bash
-    git clone https://github.com/carljohnreyes756/DC101_Game_Reyes_Carl_John.git
+    git clone https://github.com/carljohnreyes756-ctrl/DC101_Game_Reyes_Carl_John
     ```
 2.  Open the project folder.
 3.  Double-click `index.html` to open it in your web browser.
